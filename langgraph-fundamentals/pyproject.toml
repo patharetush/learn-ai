@@ -1,0 +1,11 @@
+[project]
+name = "langgraph-fundamentals"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "grandalf>=0.8",
+    "langchain>=1.3.1",
+    "langgraph>=1.2.1",
+]
